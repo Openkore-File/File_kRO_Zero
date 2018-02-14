@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="euc-kr" ?>
+ 
+<clientinfo>
+     <desc>Ragnarok Online Client Information</desc>
+    <servicetype>korea</servicetype>
+    <servertype>primary</servertype>
+    <hideaccountlist></hideaccountlist>
+    <extendedslot></extendedslot>
+    <connection>
+        <display>Poseidon Server (6950)</display>
+        <baloon>poseidon server</baloon>
+        <desc>poseidon</desc>
+        <port>6950</port>
+        <domain>127.0.0.1:6950</domain>
+        <version>46</version>
+        <langtype>0</langtype>
+        <address>127.0.0.1</address>
+        <registrationweb>http://ro.zhaouc.com/</registrationweb>
+        <aid>
+            <admin>200000</admin>
+        </aid>
+        <yellow>
+            <admin>200000</admin>
+        </yellow>      
+        <agencyAddress>127.0.0.1</agencyAddress>
+        <agencyPort>6950</agencyPort>
+    </connection>
+ 
+</clientinfo>
+<no_free_server></no_free_server>
